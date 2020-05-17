@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import styles from '../assets/css/header.css'
+import styles from './header.css'
  
 class Header extends Component {
       render() {
             return (
-                  <header className="root">
+                  <header className="rooth">
                         <h1 className="logo">React</h1>
                   </header>
             );
